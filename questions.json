@@ -1,0 +1,74 @@
+[
+  {
+    "questionNo": 1,
+    "question": "She saw groups of gift bags. Help Arya find the total number of gift bags she saw by filling in the blank boxes:",
+    "options":["","×","","=",""],
+    "answers": ["2","×","5","=","10"],
+    "secondImg":"./images/1.jpg"
+
+  },
+  {
+    "questionNo": 2,
+    "question": "In the candy shop, Arya spotted groups of candy jars. Fill in the blank boxes to find how many candy jars Arya found:",
+    "options":["","×","","=",""],
+    "answers": ["3","×","3","=","9"],
+    "secondImg":"./images/2.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "At the bookstore, Arya found groups of books. Fill in the blank boxes to find how many books Arya saw:",
+    "options":["","×","","=",""],
+    "answers": ["1","×","10","=","10"],
+    "secondImg":"./images/3.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "In the jewellery store, Arya noticed groups of necklaces. Fill in the blank boxes to find how many necklaces Arya counted:",
+    "options":["","×","","=",""],
+    "answers": ["3","×","4","=","12"],
+    "secondImg":"./images/4.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "At a craft store, Arya found groups of greeting cards. Help Arya find the total number of greeting cards by filling in the blank boxes:",
+    "options":["","×","","=",""],
+    "answers": ["6","×","2","=","12"],
+    "secondImg":"./images/5.jpg"
+  },
+  {
+    "questionNo": 6,
+    "question": "Arya visited the food court and saw groups of ice creams. Fill in the blank boxes to find how many nuggets Arya saw:",
+    "options":["","×","","=",""],
+    "answers": ["4","×","4","=","16"],
+    "secondImg":"./images/6.jpg"
+  },
+  {
+    "questionNo": 7,
+    "question": "At the bakery, Arya discovered groups of cupcakes. Fill in the blank boxes to find how many cupcakes Arya found:",
+    "options":["","×","","=",""],
+    "answers": ["3","×","6","=","18"],
+    "secondImg":"./images/7.jpg"
+  },
+  {
+    "questionNo": 8,
+    "question": "In the pet store, Arya saw groups of fishes in fish tanks. Fill in the blank boxes to find how many fish Arya noticed:",
+    "options":["","×","","=",""],
+    "answers": ["2","×","4","=","8"],
+    "secondImg":"./images/8.jpg"
+  },
+  {
+    "questionNo": 9,
+    "question": "At the flower shop, Arya found groups of flower bouquets. Fill in the blank boxes to find how many bouquets Arya saw:",
+    "options":["","×","","=",""],
+    "answers": ["2","×","5","=","10"],
+    "secondImg":"./images/9.jpg"
+  },
+  {
+    "questionNo": 10,
+    "question": "At the end of her day, Arya saw groups of T-shirts. Fill in the blank boxes to find how many T-shirts Arya noticed:",
+    "options":["","×","","=",""],
+    "answers": ["6","×","2","=","12"],
+    "secondImg":"./images/10.jpg"
+  }
+]
